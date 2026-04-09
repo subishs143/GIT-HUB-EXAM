@@ -1,2 +1,2 @@
 # GIT-HUB-EXAM
-FOR MAM
+echo"HELLO WORLD"
